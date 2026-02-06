@@ -1,5 +1,4 @@
 ##
-#  Manage student grades.
 #
 
 # Use a dictionary named 'grades' to track student grades.
